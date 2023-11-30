@@ -3,7 +3,6 @@
 <h1>Hi, I'm Xavier, an <a href="https://linkedin.com/in/Xdscott">IT Professional</a>☺</h1>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/Xdscott/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Xdscott/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Xdscott/ticket-lifecycle)
 - <b>Microsoft Azure</b>
