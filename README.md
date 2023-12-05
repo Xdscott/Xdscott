@@ -1,4 +1,3 @@
-### Hi there, my name is Xavier
 
 <h1>Hi, I'm Xavier, an <a href="https://linkedin.com/in/Xdscott">IT Professional</a>☺</h1>
 
