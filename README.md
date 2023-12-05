@@ -1,5 +1,7 @@
 
-<h1>Hi, I'm Xavier, an <a href="https://linkedin.com/in/Xdscott">IT Professional</a>☺</h1>
+<h1>Hi, I'm Xavier, an <a href="https://linkedin.com/in/xdscott">IT Professional</a>☺</h1>
+
+<h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Post-Installation Configuration](https://github.com/Xdscott/post-install-config)
